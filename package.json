@@ -24,7 +24,7 @@
     "connected-react-router": "^6.5.2",
     "history": "^4.10.1",
     "i18next": "^17.2.0",
-    "immer": "^4.0.1",
+    "immer": "^8.0.1",
     "lodash-es": "^4.17.15",
     "md5": "^2.2.1",
     "normalizr": "^3.4.1",
